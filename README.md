@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pulkit Shubham
-- 👀 I’m interested in 
+- 👀 I’m interested in coding 
 - 🌱 I’m currently pursuing BTECH CSE from Lovely Professional University
 - 💞️ I’m looking to enhance my technical skills and have a strong Engineering Profession.
 - 📫 How to reach me drop me a mail @pulkitshubham11@gmail.com
