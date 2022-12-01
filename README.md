@@ -1,5 +1,4 @@
-- Hello World!
-- 👋 Hi, I’m @PulkitShubham
+- 👋 Hi, I’m Pulkit Shubham
 - 👀 I’m interested in 
 - 🌱 I’m currently pursuing BTECH CSE from Lovely Professional University
 - 💞️ I’m looking to enhance my technical skills and have a strong Engineering Profession.
